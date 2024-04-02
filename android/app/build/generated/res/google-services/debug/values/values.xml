@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">600862566292-v336qef9gc95qkupq3nlj3p9fr75qest.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">600862566292</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgE8qhtRxvRuRl51C4nbpKOgQ94TxC494</string>
+    <string name="google_app_id" translatable="false">1:600862566292:android:36033540c93434dc0a1181</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgE8qhtRxvRuRl51C4nbpKOgQ94TxC494</string>
+    <string name="google_storage_bucket" translatable="false">shopperdarbar.appspot.com</string>
+    <string name="project_id" translatable="false">shopperdarbar</string>
+</resources>

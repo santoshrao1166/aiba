@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#000000</item>
+        <!-- styles for alert box  -->
+        <item name="android:alertDialogTheme">@style/ThemeAlert</item>
+        <!-- <item name="android:spinnerItemStyle">@style/SpinnerItem</item> -->
+        <!-- <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItem</item> -->
+
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+     <style name="ThemeAlert" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- This one changes buttons text color -->
+        <item name="colorAccent">#000000</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">#000000</item>
+        <!-- Used for the background -->
+        <item name="android:background">#FFFFFF</item>
+    </style>
+    <!-- Item selected font. -->
+    <!-- <style name="SpinnerItem" parent="Theme.AppCompat.Light.NoActionBar">      -->
+        <!-- Used for the title and text -->
+        <!-- <item name="android:textColorPrimary">#000000</item> -->
+        <!-- Used for the background -->
+        <!-- <item name="android:background">#FFFFFF</item> -->
+    <!-- </style> -->
+
+    <!-- Dropdown options font. -->
+    <!-- <style name="SpinnerDropDownItem" parent="Theme.AppCompat.Light.NoActionBar"> -->
+        <!-- Used for the title and text -->
+        <!-- <item name="android:textColorPrimary">#000000</item> -->
+        <!-- Used for the background -->
+        <!-- <item name="android:background">#FFFFFF</item> -->
+    <!-- </style> -->
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AIBA.iml" filepath="$PROJECT_DIR$/.idea/modules/AIBA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.@react-native-community_netinfo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AIBA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AIBA.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AIBA.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AIBA.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AIBA.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AIBA.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AIBA.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AIBA.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-294273250/AIBA.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1233419344/AIBA.react-native-community_checkbox.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1215667458/AIBA.react-native-community_netinfo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/269785719/AIBA.react-native-document-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1094207456/AIBA.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1756352893/AIBA.react-native-firebase_messaging.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1365505469/AIBA.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1260648200/AIBA.react-native-picker_picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.iml" filepath="$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/138656323/AIBA.react-native-razorpay.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1354974783/AIBA.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1354974783/AIBA.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1357868314/AIBA.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1674233218/AIBA.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-847035591/AIBA.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1879676656/AIBA.react-native-webview.unitTest.iml" />
+    </modules>
+  </component>
+</project>

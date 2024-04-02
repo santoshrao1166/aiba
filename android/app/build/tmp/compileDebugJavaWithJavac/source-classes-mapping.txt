@@ -1,0 +1,16 @@
+com/aiba/BuildConfig.java
+ com.aiba.BuildConfig
+com/aiba/ReactNativeFlipper.java
+ com.aiba.ReactNativeFlipper
+ com.aiba.ReactNativeFlipper$1
+ com.aiba.ReactNativeFlipper$2
+ com.aiba.ReactNativeFlipper$2$1
+com/aiba/MainApplication.java
+ com.aiba.MainApplication
+ com.aiba.MainApplication$1
+com/aiba/MainActivity.java
+ com.aiba.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/aiba/SplashActivity.java
+ com.aiba.SplashActivity

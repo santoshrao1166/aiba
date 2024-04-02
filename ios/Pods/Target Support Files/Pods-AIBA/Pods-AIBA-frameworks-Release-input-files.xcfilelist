@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AIBA/Pods-AIBA-frameworks.sh
+${PODS_ROOT}/razorpay-pod/Pod/Razorpay.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

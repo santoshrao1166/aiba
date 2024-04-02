@@ -1,0 +1,292 @@
+{
+  "evenGroupTimeSlot": [
+    {
+      "time": "9:00 AM",
+      "startTime": 9,
+      "endtime": 10
+    },
+    {
+      "time": "10:00 AM",
+      "startTime": 10,
+      "endtime": 11
+    },
+    {
+      "time": "11:00 AM",
+      "startTime": 11,
+      "endtime": 12
+    },
+    {
+      "time": "12:00 AM",
+      "startTime": 12,
+      "endtime": 13
+    },
+    {
+      "time": "1:00 PM",
+      "startTime": 13,
+      "endtime": 14
+    },
+    {
+      "time": "2:00 PM",
+      "startTime": 14,
+      "endtime": 15
+    },
+    {
+      "time": "3:00 PM",
+      "startTime": 15,
+      "endtime": 16
+    },
+    {
+      "time": "4:00 PM",
+      "startTime": 16,
+      "endtime": 17
+    },
+    {
+      "time": "5:00 PM",
+      "startTime": 17,
+      "endtime": 18
+    },
+    {
+      "time": "6:00 PM",
+      "startTime": 18,
+      "endtime": 19
+    },
+    {
+      "time": "7:00 PM",
+      "startTime": 19,
+      "endtime": 20
+    },
+    {
+      "time": "8:00 PM",
+      "startTime": 20,
+      "endtime": 21
+    },
+    {
+      "time": "9:00 PM",
+      "startTime": 21,
+      "endtime": 22
+    },
+    {
+      "time": "10:00 PM",
+      "startTime": 22,
+      "endtime": 23
+    },
+    {
+      "time": "11:00 PM",
+      "startTime": 23,
+      "endtime": 24
+    }
+  ],
+  "oddGroupTimeSlot": [
+    {
+      "time": "11:59 PM",
+      "startTime": 0,
+      "endtime": 1
+    },
+    {
+      "time": "1:00 AM",
+      "startTime": 1,
+      "endtime": 2
+    },
+    {
+      "time": "2:00 AM",
+      "startTime": 2,
+      "endtime": 3
+    },
+    {
+      "time": "7:00 AM",
+      "startTime": 7,
+      "endtime": 8
+    },
+    {
+      "time": "8:00 AM",
+      "startTime": 8,
+      "endtime": 9
+    }
+  ],
+  "sdGroupTimeSlot": [
+    {
+      "time": "11:00 AM",
+      "startTime": 11,
+      "endtime": 12
+    },
+    {
+      "time": "12:00 PM",
+      "startTime": 12,
+      "endtime": 13
+    },
+    {
+      "time": "1:00 PM",
+      "startTime": 13,
+      "endtime": 14
+    },
+    {
+      "time": "2:00 PM",
+      "startTime": 14,
+      "endtime": 15
+    },
+    {
+      "time": "3:00 PM",
+      "startTime": 15,
+      "endtime": 16
+    },
+    {
+      "time": "4:00 PM",
+      "startTime": 16,
+      "endtime": 17
+    },
+    {
+      "time": "5:00 PM",
+      "startTime": 17,
+      "endtime": 18
+    },
+    {
+      "time": "6:00 PM",
+      "startTime": 18,
+      "endtime": 19
+    },
+    {
+      "time": "7:00 PM",
+      "startTime": 19,
+      "endtime": 20
+    },
+    {
+      "time": "8:00 PM",
+      "startTime": 20,
+      "endtime": 21
+    },
+    {
+      "time": "9:00 PM",
+      "startTime": 21,
+      "endtime": 22
+    },
+    {
+      "time": "10:00 PM",
+      "startTime": 22,
+      "endtime": 23
+    },
+    {
+      "time": "11:00 PM",
+      "startTime": 23,
+      "endtime": 24
+    }
+  ],
+  "advertGroupSlot": [
+    {
+      "time": "7:30 PM",
+      "startTime": 19.5,
+      "endtime": 20.5
+    },
+    {
+      "time": "8:30 PM",
+      "startTime": 20.5,
+      "endtime": 21.5
+    },
+    {
+      "time": "9:30 PM",
+      "startTime": 21.5,
+      "endtime": 22.5
+    },
+    {
+      "time": "10:30 PM",
+      "startTime": 22.5,
+      "endtime": 23.5
+    },
+    {
+      "time": "11:30 PM",
+      "startTime": 23.5,
+      "endtime": 0.5
+    },
+    {
+      "time": "01:30 AM",
+      "startTime": 1.5,
+      "endtime": 2.5
+    },
+    {
+      "time": "02:30 AM",
+      "startTime": 2.5,
+      "endtime": 3.5
+    }
+  ],
+  "nonMembersTimeSlot": [
+    {
+      "time": "8:00 AM",
+      "startTime": 8,
+      "endtime": 9
+    },
+    {
+      "time": "9:00 AM",
+      "startTime": 9,
+      "endtime": 10
+    },
+    {
+      "time": "10:00 AM",
+      "startTime": 10,
+      "endtime": 11
+    },
+    {
+      "time": "11:00 AM",
+      "startTime": 11,
+      "endtime": 12
+    },
+    {
+      "time": "12:00 PM",
+      "startTime": 12,
+      "endtime": 13
+    },
+    {
+      "time": "1:00 PM",
+      "startTime": 13,
+      "endtime": 14
+    },
+    {
+      "time": "2:00 PM",
+      "startTime": 14,
+      "endtime": 15
+    },
+    {
+      "time": "3:00 PM",
+      "startTime": 15,
+      "endtime": 16
+    },
+    {
+      "time": "4:00 PM",
+      "startTime": 16,
+      "endtime": 17
+    },
+    {
+      "time": "5:00 PM",
+      "startTime": 17,
+      "endtime": 18
+    },
+    {
+      "time": "6:00 PM",
+      "startTime": 18,
+      "endtime": 19
+    },
+    {
+      "time": "7:00 PM",
+      "startTime": 19,
+      "endtime": 20
+    },
+    {
+      "time": "8:00 PM",
+      "startTime": 20,
+      "endtime": 21
+    },
+    {
+      "time": "9:00 PM",
+      "startTime": 21,
+      "endtime": 22
+    },
+    {
+      "time": "10:00 PM",
+      "startTime": 22,
+      "endtime": 23
+    },
+    {
+      "time": "11:00 PM",
+      "startTime": 23,
+      "endtime": 24
+    }
+  ]
+}

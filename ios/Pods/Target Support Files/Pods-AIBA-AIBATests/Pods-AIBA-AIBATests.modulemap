@@ -1,0 +1,6 @@
+module Pods_AIBA_AIBATests {
+  umbrella header "Pods-AIBA-AIBATests-umbrella.h"
+
+  export *
+  module * { export * }
+}
